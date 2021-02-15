@@ -8,7 +8,7 @@
 
 #### 2.Descripción 
 ```
-Ejercicios sobre Arraylist y Hashtable 
+Ejercicios sobre Herencia en Java
 ```
 #### 3. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
 ###### Install
